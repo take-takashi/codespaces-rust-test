@@ -1,0 +1,2 @@
+# codespaces-rust-test
+Rustのテスト
