@@ -5,5 +5,12 @@ Rust のテスト
 ## install command
 
 ```
-cargo
+cargo new hello --bin
+```
+
+## run
+
+```
+cd hello
+cargo run
 ```
