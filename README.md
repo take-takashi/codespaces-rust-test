@@ -1,2 +1,9 @@
 # codespaces-rust-test
-Rustのテスト
+
+Rust のテスト
+
+## install command
+
+```
+cargo
+```
